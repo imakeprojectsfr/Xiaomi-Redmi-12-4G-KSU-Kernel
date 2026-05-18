@@ -21,6 +21,10 @@ Download KernelSU Manager v0.9.5 from GitHub releases: https://github.com/tiann/
 
 Once installed, open the manager and your good to go!
 
+# Uninstallation
+
+Flash your stock boot.img file to restore the original kernel back
+
 # Credits & Acknowledgements
 A huge thanks to the developers and the open-source community who made this project possible:
 
