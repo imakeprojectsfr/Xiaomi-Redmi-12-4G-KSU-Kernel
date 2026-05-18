@@ -1,5 +1,8 @@
 # Xiaomi Redmi 12 4G KSU Kernel
 Custom kernel for Xiaomi Redmi 12 4G (fire) featuring integrated KernelSU and path_umount backport fix for module hiding.
+Kernel Source Codes For Building https://github.com/imakeprojectsfr/redmi-12-4g-kernel-source-codes
+
+
 
 # Instructions
 You need to flash the Zipped Kernel via TWRP/OrangeFox recovery.
@@ -30,3 +33,4 @@ tiann - For the Kernel based root solution. (https://github.com/tiann/KernelSU)
 Xiaomi Developers - For providing the original kernel source codes.
 
 HUGE THANKS TO YOU ALL!
+
