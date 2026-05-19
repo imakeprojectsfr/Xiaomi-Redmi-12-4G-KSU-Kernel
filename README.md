@@ -23,7 +23,7 @@ You need to flash the Zipped Kernel via TWRP/OrangeFox recovery.
 # Installation via TWRP / OrangeFox
 Reboot your device into Recovery Mode.
 
-Go to Install, select the downloaded Kernel zip file, and swipe to flash.
+Go to Install, select the downloaded Kernel [zip file from](https://github.com/imakeprojectsfr/Xiaomi-Redmi-12-4G-KSU-Kernel/releases/tag/release), and swipe to flash.
 
 Reboot your system.
 
