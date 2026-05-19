@@ -1,3 +1,16 @@
+# CAUTION
+
+This Kernel was only tested on Lineage OS 22.1 (unoffical) by mt6768-dev
+https://github.com/mt6768-dev/Releases/releases
+
+I dont know if it could work on Hyper OS or MIUI but Theres Already a project for it!
+https://t.me/s/redmi12fire
+
+It could work on other Lineage OS versions maybe but you will have to test that!
+
+I AM NOT RESPONSIBLE FOR ANY DAMAGED PHONES SOFT BRICKS OR HARD BRICKS BY ANY MEANS IF YOU BREAK SOMETHING THATS ON YOU
+
+
 # Xiaomi Redmi 12 4G KSU Kernel
 Custom kernel for Xiaomi Redmi 12 4G (fire) featuring integrated KernelSU and path_umount backport fix for module hiding.
 Kernel Source Codes For Building https://github.com/imakeprojectsfr/redmi-12-4g-kernel-source-codes
