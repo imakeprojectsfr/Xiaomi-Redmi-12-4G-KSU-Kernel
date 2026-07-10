@@ -1,4 +1,5 @@
 # CAUTION
+# KERNEL GYROSCOPE ACCELEMATOR AND MAGNETIC DRIVERS ARE BROKEN BE WARNED!
 
 This Kernel was only tested on Lineage OS 22.1 (unoffical) by mt6768-dev
 https://github.com/mt6768-dev/Releases/releases
